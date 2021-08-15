@@ -3,5 +3,3 @@
 2 - ctrl+F and search for "$browser", then you will se "$browser: 'discord.js'"
 
 3 - change "$browser: 'discord.js'" to "$browser: 'Discord Android'" and it's done, now you should have the mobile status on your bot
-
-https://im2.ezgif.com/tmp/ezgif-2-79ebff948872.gif
