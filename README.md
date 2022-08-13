@@ -4,10 +4,11 @@
 
 3 - change "browser: 'discord.js'" to "browser: 'Discord Android'" and it's done, now you should have the mobile status on your bot
 
-4 - Or just put this on your client options ```
+4 - Or just put this on your client options 
+```
   ws: {
 				properties: {
 					browser: "Discord Android",
 				}
-			}
+	}
 ```
