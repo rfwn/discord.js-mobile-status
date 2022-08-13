@@ -7,8 +7,8 @@
 4 - Or just put this on your client options 
 ```
   ws: {
-				properties: {
-					browser: "Discord Android",
-				}
+	properties: {
+		browser: "Discord Android",
 	}
+}
 ```
